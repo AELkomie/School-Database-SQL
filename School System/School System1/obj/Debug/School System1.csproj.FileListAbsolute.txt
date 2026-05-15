@@ -1,0 +1,15 @@
+C:\Users\p\source\repos\School System1\School System1\bin\Debug\School System1.exe.config
+C:\Users\p\source\repos\School System1\School System1\bin\Debug\School System1.exe
+C:\Users\p\source\repos\School System1\School System1\bin\Debug\School System1.pdb
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School System1.csproj.AssemblyReference.cache
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School_System1.Form1.resources
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School_System1.Properties.Resources.resources
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School System1.csproj.GenerateResource.cache
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School System1.csproj.CoreCompileInputs.cache
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School System1.exe
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School System1.pdb
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School System1.exe.config
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School_System1.Form2.resources
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School_System1.SelectForm.resources
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School_System1.addStudent.resources
+C:\Users\p\source\repos\School System1\School System1\obj\Debug\School_System1.removeStudent.resources
